@@ -1,8 +1,21 @@
-#YelpCamp
+A full stack web application for sharing campgrounds.
 
-* Add Landing Page
-* Add Campgrounds Page that lists all campgrounds
+#Features
+* Responsive design
+* Edit and Delete Campgrounds shared
+* Post, Edit and Delete comments on Campground posts 
+* Authentication (users can login using their username and password) and Authorization (users cannot edit or delete posts if they are not logged in and don't own the post.)
 
-Each Campground has:
-* Name
-* Image
+#Tech Stack
+Front End:
+* HTML
+* CSS
+* ejs
+* Bootstrap
+
+Back End:
+* Node.js
+* Express
+* MongoDB
+* Mongoose
+* passport
