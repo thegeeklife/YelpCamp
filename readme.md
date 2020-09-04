@@ -2,9 +2,9 @@ A full stack web application for sharing campgrounds.
 
 # Make sure the following are installed and/or running:
 * MongoDB shell:
-  ** Run mongod
+ * Run mongod
 * Express:
-  ** npm install express --save
+ * npm install express --save
 
 # Features
 * Responsive design
