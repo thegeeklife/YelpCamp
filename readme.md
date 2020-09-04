@@ -1,13 +1,5 @@
 A full stack web application for sharing campgrounds.
-
-# Make sure the following are installed and/or running:
-* MongoDB shell:
-
-  * Run mongod
-* Express:
- * npm install express --save
-
-  * Search existing campgrounds
+  
 # Features
 * Responsive design
 * Edit and Delete Campgrounds shared
@@ -25,3 +17,21 @@ Front End:
 * Node.js
 * Express
 * MongoDB
+
+
+# Before starting app.js, ,make sure the following are installed and/or running:
+* MongoDB shell:
+
+  * Run mongod
+  
+* Express
+* ejs
+* mongoose
+* passport
+* passport-local
+* passport-local-mongoose
+* body-parser
+* method-override
+
+Cross-check the package.json file for these dependencies, if not present run:
+  * npm i -S express ejs mongoose passport passport-local passport-local-mongoose body-parser method-override
