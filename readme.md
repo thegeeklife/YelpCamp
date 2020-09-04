@@ -13,7 +13,7 @@ Front End:
 * ejs
 * Bootstrap
 
-# Back End:
+Back End:
 * Node.js
 * Express
 * MongoDB
@@ -33,5 +33,7 @@ Front End:
 * body-parser
 * method-override
 
-Cross-check the package.json file for these dependencies, if not present run:
-  * npm i -S express ejs mongoose passport passport-local passport-local-mongoose body-parser method-override
+Cross-check the package.json file for these dependencies, if not present run: 
+```
+npm i -S express ejs mongoose passport passport-local passport-local-mongoose body-parser method-override
+```
