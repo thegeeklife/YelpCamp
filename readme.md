@@ -1,4 +1,4 @@
-A full stack web application for sharing campgrounds. (Soon to be deployed on heroku)
+A full stack web application for sharing campgrounds. 
   
 # Features
 * Responsive design
