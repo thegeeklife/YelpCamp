@@ -20,10 +20,7 @@ Back End:
 
 
 # Make sure the following are installed and/or running:
-* MongoDB shell:
-
-  * Run mongod
-  
+* MongoDB shell (mongod should be active in terminal)  
 * Express
 * ejs
 * mongoose
