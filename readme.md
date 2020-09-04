@@ -19,7 +19,7 @@ Back End:
 * MongoDB
 
 
-# Before starting app.js, ,make sure the following are installed and/or running:
+# Make sure the following are installed and/or running:
 * MongoDB shell:
 
   * Run mongod
@@ -36,4 +36,9 @@ Back End:
 Cross-check the package.json file for these dependencies, if not present run: 
 ```
 npm i -S express ejs mongoose passport passport-local passport-local-mongoose body-parser method-override
+```
+
+# Run the app.js file
+```
+node app.js
 ```
