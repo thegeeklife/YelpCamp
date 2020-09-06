@@ -1,4 +1,17 @@
 A full stack web application for sharing campgrounds. 
+
+* Landing Page
+
+![](images/LandingPage.png)
+
+* Home Page
+
+![](images/Home.png)
+
+* Campground Post and Comments
+
+![](images/Post_Comment.png)
+
   
 # Features
 * Responsive design
@@ -17,6 +30,7 @@ Back End:
 * Node.js
 * Express
 * MongoDB
+* RESTful API
 
 
 # Make sure the following are installed and/or running:
